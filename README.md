@@ -2,7 +2,7 @@
 
 **I'm data scientist.**
 
-08.2023 - 04.2024 Yandex Practicum Data Science Specialist
+08.2023 - 04.2024 Yandex Practicum Data Science Course
 
 - 📫 How to reach me: antkotikov@yandex.ru
 
